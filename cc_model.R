@@ -1,6 +1,7 @@
 
 
 library(zoo)
+library(caret)
 
 #modelop.init
 begin <- function(){
@@ -37,4 +38,6 @@ metrics <- function(data){
 	preds <- make_prediction(data)
 	outcomes <- sapply(preds, predictor)
 	cm <- confusionMatrix(factor(outcomes), factor(data$loan_status))
-	emit(cm["table"])
+	metrics <- list(confusionMatrix=cm["table"])
+	emit(metrics)
+}
