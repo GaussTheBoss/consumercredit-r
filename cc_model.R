@@ -24,6 +24,7 @@ make_prediction <- function(datum){
 	datum$credit_age = Sys.yearmon() - datum$earliest_cr_line
 	preds <- unname(predict(logreg, datum, type="response"))
 	return(preds)
+}
 
 #modelop.score
 action <- function(datum){
