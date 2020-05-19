@@ -8,6 +8,7 @@ begin <- function(){
 	logreg <<- logreg_model
 	predictor <<- predictor
 	hos_cleanup <<- ho_cleanup
+	threshold <<- threshold
 }
 
 #modelop.score
