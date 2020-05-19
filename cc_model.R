@@ -20,6 +20,7 @@ action <- function(datum){
 	datum$log_loan_amnt <- sapply(datum$loan_amnt, log)
 	datum$log_annual_inc <- sapply(datum$annual_inc, log)
 	datum$home_ownership <- sapply(datum$home_ownership, hos_cleanup)
+	datum$credit_age = Sys.yearmon() - datum$earliest_cr_line
 	preds <- predict(logreg, datum, type="response")
 	outcome <- sapply(preds, predictor)
 	output <- list(outome = outcome, propensity = preds)
