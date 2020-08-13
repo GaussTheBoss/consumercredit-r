@@ -1,7 +1,6 @@
 
 
 library(zoo)
-library(caret)
 
 #modelop.init
 begin <- function(){
