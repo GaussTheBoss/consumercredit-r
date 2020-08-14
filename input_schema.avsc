@@ -1,0 +1,42 @@
+{
+   "type": "record",
+   "name": "input_schema.avsc",
+   "fields": [
+      {
+         "name": "id",
+         "type": "int"
+      },
+      {
+         "name": "loan_amnt",
+         "type": "int"
+      },
+      {
+         "name": "dti",
+         "type": "double"
+      },
+      {
+         "name": "home_ownership",
+         "type": "string"
+      },
+      {
+         "name": "annual_inc",
+         "type": "int"
+      },
+      {
+         "name": "earliest_cr_line",
+         "type": "string"
+      },
+      {
+         "name": "int_rate",
+         "type": "string"
+      },
+      {
+         "name": "loan_status",
+         "type": "string"
+      },
+      {
+         "name": "issue_d",
+         "type": "string"
+      }
+   ]
+}
