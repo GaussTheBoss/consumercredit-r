@@ -1,4 +1,5 @@
-
+#fastscore.schema.0: input_schema.avsc
+#fastscore.slot.1: in-use
 
 library(zoo)
 
