@@ -1,4 +1,4 @@
-"","loan_amnt","dti","home_ownership","annual_inc","earliest_cr_line","int_rate","loan_status","issue_d"
+"id","loan_amnt","dti","home_ownership","annual_inc","earliest_cr_line","int_rate","loan_status","issue_d"
 "54176",14000,22.75,"MORTGAGE",175000,"Mar-1993"," 13.68%","Charged Off","Aug-2013"
 "54503",7000,21.75,"RENT",55296,"Sep-2003"," 18.25%","Charged Off","Aug-2013"
 "54523",8800,23.69,"MORTGAGE",35000,"Oct-2002"," 15.22%","Fully Paid","Aug-2013"
