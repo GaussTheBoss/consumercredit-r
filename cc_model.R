@@ -1,9 +1,9 @@
-#fastscore.schema.0: input_schema.avsc
-#fastscore.slot.1: in-use
+# modelop.schema.0: input_schema.avsc
+# modelop.slot.1: in-use
 
 library(zoo)
 
-#modelop.init
+# modelop.init
 begin <- function(){
 	load("model_artifacts.RData")
 	logreg <<- logreg_model
@@ -26,7 +26,7 @@ make_prediction <- function(datum){
 	return(preds)
 }
 
-#modelop.score
+# modelop.score
 action <- function(datum){
 	preds <- make_prediction(datum)
 	outcome <- sapply(preds, predictor)
@@ -34,7 +34,7 @@ action <- function(datum){
 	emit(output)
 }
 
-#modelop.metrics
+# modelop.metrics
 metrics <- function(data){
 	preds <- make_prediction(data)
 	outcomes <- sapply(preds, predictor)
