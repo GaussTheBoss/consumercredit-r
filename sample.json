@@ -1,49 +1,49 @@
-{"id":54176,"loan_amnt":14000,"dti":22.75,"home_ownership":"MORTGAGE","annual_inc":175000,"earliest_cr_line":"Mar-1993","int_rate":"13.68%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":54503,"loan_amnt":7000,"dti":21.75,"home_ownership":"RENT","annual_inc":55296,"earliest_cr_line":"Sep-2003","int_rate":"18.25%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":54523,"loan_amnt":8800,"dti":23.69,"home_ownership":"MORTGAGE","annual_inc":35000,"earliest_cr_line":"Oct-2002","int_rate":"15.22%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":54584,"loan_amnt":10000,"dti":5.61,"home_ownership":"RENT","annual_inc":46000,"earliest_cr_line":"Mar-1998","int_rate":"12.35%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":54654,"loan_amnt":12000,"dti":18.55,"home_ownership":"RENT","annual_inc":55000,"earliest_cr_line":"Jan-2010","int_rate":"15.22%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":54671,"loan_amnt":9000,"dti":16.3,"home_ownership":"OWN","annual_inc":36000,"earliest_cr_line":"Jan-1995","int_rate":"7.90%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":54673,"loan_amnt":9000,"dti":20.09,"home_ownership":"MORTGAGE","annual_inc":62000,"earliest_cr_line":"Feb-1994","int_rate":"11.55%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":54763,"loan_amnt":4800,"dti":9.58,"home_ownership":"MORTGAGE","annual_inc":75000,"earliest_cr_line":"Nov-1999","int_rate":"18.85%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":54799,"loan_amnt":6900,"dti":27.12,"home_ownership":"MORTGAGE","annual_inc":73000,"earliest_cr_line":"Jun-2000","int_rate":"17.56%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":54846,"loan_amnt":6000,"dti":25.81,"home_ownership":"RENT","annual_inc":55000,"earliest_cr_line":"Apr-2002","int_rate":"13.68%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":54930,"loan_amnt":15000,"dti":14.06,"home_ownership":"MORTGAGE","annual_inc":75000,"earliest_cr_line":"May-1992","int_rate":"12.35%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":54934,"loan_amnt":5725,"dti":7.59,"home_ownership":"OWN","annual_inc":71280,"earliest_cr_line":"Sep-2006","int_rate":"6.03%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55051,"loan_amnt":21000,"dti":21.95,"home_ownership":"MORTGAGE","annual_inc":110000,"earliest_cr_line":"Feb-1992","int_rate":"11.55%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55122,"loan_amnt":20000,"dti":20.46,"home_ownership":"MORTGAGE","annual_inc":75000,"earliest_cr_line":"Oct-1999","int_rate":"6.62%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55143,"loan_amnt":17000,"dti":11.9,"home_ownership":"RENT","annual_inc":140000,"earliest_cr_line":"Nov-2000","int_rate":"11.55%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55148,"loan_amnt":15000,"dti":24.17,"home_ownership":"MORTGAGE","annual_inc":72000,"earliest_cr_line":"Dec-1996","int_rate":"13.68%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55194,"loan_amnt":3000,"dti":21.23,"home_ownership":"RENT","annual_inc":23000,"earliest_cr_line":"Apr-2008","int_rate":"16.78%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":55216,"loan_amnt":6000,"dti":18.0,"home_ownership":"MORTGAGE","annual_inc":68000,"earliest_cr_line":"Oct-2001","int_rate":"18.25%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55258,"loan_amnt":10000,"dti":14.68,"home_ownership":"RENT","annual_inc":48500,"earliest_cr_line":"Nov-1996","int_rate":"6.62%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55296,"loan_amnt":8000,"dti":13.8,"home_ownership":"RENT","annual_inc":54000,"earliest_cr_line":"Jun-2003","int_rate":"11.55%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":55349,"loan_amnt":10625,"dti":25.81,"home_ownership":"OWN","annual_inc":32000,"earliest_cr_line":"Jun-1999","int_rate":"16.78%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":55389,"loan_amnt":11000,"dti":11.35,"home_ownership":"MORTGAGE","annual_inc":50000,"earliest_cr_line":"Dec-2002","int_rate":"6.62%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55402,"loan_amnt":5200,"dti":6.87,"home_ownership":"RENT","annual_inc":35000,"earliest_cr_line":"Mar-2003","int_rate":"9.71%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55420,"loan_amnt":11800,"dti":7.71,"home_ownership":"RENT","annual_inc":35000,"earliest_cr_line":"Apr-2004","int_rate":"15.22%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":55432,"loan_amnt":10625,"dti":23.9,"home_ownership":"RENT","annual_inc":36250,"earliest_cr_line":"Jan-2007","int_rate":"12.35%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":55444,"loan_amnt":10500,"dti":18.08,"home_ownership":"MORTGAGE","annual_inc":62000,"earliest_cr_line":"Nov-2003","int_rate":"19.52%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55452,"loan_amnt":9500,"dti":19.54,"home_ownership":"OWN","annual_inc":46000,"earliest_cr_line":"Apr-2007","int_rate":"13.68%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55456,"loan_amnt":12000,"dti":18.24,"home_ownership":"RENT","annual_inc":55000,"earliest_cr_line":"Jul-2002","int_rate":"16.78%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55458,"loan_amnt":31300,"dti":24.77,"home_ownership":"MORTGAGE","annual_inc":70000,"earliest_cr_line":"Feb-2001","int_rate":"14.33%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55464,"loan_amnt":7200,"dti":19.06,"home_ownership":"MORTGAGE","annual_inc":36000,"earliest_cr_line":"Jan-1988","int_rate":"18.85%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55477,"loan_amnt":12000,"dti":11.23,"home_ownership":"RENT","annual_inc":75000,"earliest_cr_line":"Aug-2004","int_rate":"18.85%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55484,"loan_amnt":8000,"dti":17.6,"home_ownership":"MORTGAGE","annual_inc":40000,"earliest_cr_line":"Dec-2000","int_rate":"9.71%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55500,"loan_amnt":1500,"dti":6.49,"home_ownership":"RENT","annual_inc":84000,"earliest_cr_line":"Feb-1997","int_rate":"21.60%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55505,"loan_amnt":5325,"dti":18.12,"home_ownership":"MORTGAGE","annual_inc":72000,"earliest_cr_line":"Apr-1979","int_rate":"9.71%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55507,"loan_amnt":10000,"dti":24.79,"home_ownership":"MORTGAGE","annual_inc":120000,"earliest_cr_line":"Feb-1997","int_rate":"9.71%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":55516,"loan_amnt":14000,"dti":20.4,"home_ownership":"MORTGAGE","annual_inc":200000,"earliest_cr_line":"Sep-1995","int_rate":"15.22%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55517,"loan_amnt":22000,"dti":30.29,"home_ownership":"MORTGAGE","annual_inc":84500,"earliest_cr_line":"Jun-1999","int_rate":"15.22%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
-{"id":55524,"loan_amnt":7000,"dti":20.83,"home_ownership":"MORTGAGE","annual_inc":65852,"earliest_cr_line":"Feb-1997","int_rate":"17.56%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55561,"loan_amnt":25000,"dti":21.73,"home_ownership":"OWN","annual_inc":81682,"earliest_cr_line":"Jan-1994","int_rate":"18.85%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55567,"loan_amnt":21000,"dti":19.87,"home_ownership":"MORTGAGE","annual_inc":130000,"earliest_cr_line":"May-2004","int_rate":"13.05%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55569,"loan_amnt":13000,"dti":16.48,"home_ownership":"MORTGAGE","annual_inc":41000,"earliest_cr_line":"Sep-1996","int_rate":"11.55%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55578,"loan_amnt":6075,"dti":18.4,"home_ownership":"MORTGAGE","annual_inc":21000,"earliest_cr_line":"Dec-2003","int_rate":"16.78%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55596,"loan_amnt":10000,"dti":14.16,"home_ownership":"RENT","annual_inc":40000,"earliest_cr_line":"Feb-2003","int_rate":"17.56%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55612,"loan_amnt":4375,"dti":25.62,"home_ownership":"MORTGAGE","annual_inc":22900,"earliest_cr_line":"Jan-2002","int_rate":"11.55%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55618,"loan_amnt":28100,"dti":32.13,"home_ownership":"MORTGAGE","annual_inc":63000,"earliest_cr_line":"May-2001","int_rate":"9.71%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55644,"loan_amnt":25000,"dti":8.06,"home_ownership":"MORTGAGE","annual_inc":140000,"earliest_cr_line":"Mar-1998","int_rate":"15.22%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55652,"loan_amnt":10000,"dti":6.63,"home_ownership":"MORTGAGE","annual_inc":180000,"earliest_cr_line":"Dec-1994","int_rate":"18.85%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55654,"loan_amnt":5000,"dti":6.66,"home_ownership":"RENT","annual_inc":65000,"earliest_cr_line":"Dec-1997","int_rate":"12.35%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
-{"id":55655,"loan_amnt":11000,"dti":18.95,"home_ownership":"MORTGAGE","annual_inc":57000,"earliest_cr_line":"Nov-1999","int_rate":"12.35%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
+{"id":54176,"loan_amnt":14000,"dti":22.75,"home_ownership":"MORTGAGE","annual_inc":175000,"earliest_cr_line":"Mar-1993","int_rate":"13.68%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":54503,"loan_amnt":7000,"dti":21.75,"home_ownership":"RENT","annual_inc":55296,"earliest_cr_line":"Sep-2003","int_rate":"18.25%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":54523,"loan_amnt":8800,"dti":23.69,"home_ownership":"MORTGAGE","annual_inc":35000,"earliest_cr_line":"Oct-2002","int_rate":"15.22%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":54584,"loan_amnt":10000,"dti":5.61,"home_ownership":"RENT","annual_inc":46000,"earliest_cr_line":"Mar-1998","int_rate":"12.35%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":54654,"loan_amnt":12000,"dti":18.55,"home_ownership":"RENT","annual_inc":55000,"earliest_cr_line":"Jan-2010","int_rate":"15.22%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":54671,"loan_amnt":9000,"dti":16.3,"home_ownership":"OWN","annual_inc":36000,"earliest_cr_line":"Jan-1995","int_rate":"7.90%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":54673,"loan_amnt":9000,"dti":20.09,"home_ownership":"MORTGAGE","annual_inc":62000,"earliest_cr_line":"Feb-1994","int_rate":"11.55%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":54763,"loan_amnt":4800,"dti":9.58,"home_ownership":"MORTGAGE","annual_inc":75000,"earliest_cr_line":"Nov-1999","int_rate":"18.85%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":54799,"loan_amnt":6900,"dti":27.12,"home_ownership":"MORTGAGE","annual_inc":73000,"earliest_cr_line":"Jun-2000","int_rate":"17.56%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":54846,"loan_amnt":6000,"dti":25.81,"home_ownership":"RENT","annual_inc":55000,"earliest_cr_line":"Apr-2002","int_rate":"13.68%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":54930,"loan_amnt":15000,"dti":14.06,"home_ownership":"MORTGAGE","annual_inc":75000,"earliest_cr_line":"May-1992","int_rate":"12.35%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":54934,"loan_amnt":5725,"dti":7.59,"home_ownership":"OWN","annual_inc":71280,"earliest_cr_line":"Sep-2006","int_rate":"6.03%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55051,"loan_amnt":21000,"dti":21.95,"home_ownership":"MORTGAGE","annual_inc":110000,"earliest_cr_line":"Feb-1992","int_rate":"11.55%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55122,"loan_amnt":20000,"dti":20.46,"home_ownership":"MORTGAGE","annual_inc":75000,"earliest_cr_line":"Oct-1999","int_rate":"6.62%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55143,"loan_amnt":17000,"dti":11.9,"home_ownership":"RENT","annual_inc":140000,"earliest_cr_line":"Nov-2000","int_rate":"11.55%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55148,"loan_amnt":15000,"dti":24.17,"home_ownership":"MORTGAGE","annual_inc":72000,"earliest_cr_line":"Dec-1996","int_rate":"13.68%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55194,"loan_amnt":3000,"dti":21.23,"home_ownership":"RENT","annual_inc":23000,"earliest_cr_line":"Apr-2008","int_rate":"16.78%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":55216,"loan_amnt":6000,"dti":18.0,"home_ownership":"MORTGAGE","annual_inc":68000,"earliest_cr_line":"Oct-2001","int_rate":"18.25%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55258,"loan_amnt":10000,"dti":14.68,"home_ownership":"RENT","annual_inc":48500,"earliest_cr_line":"Nov-1996","int_rate":"6.62%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55296,"loan_amnt":8000,"dti":13.8,"home_ownership":"RENT","annual_inc":54000,"earliest_cr_line":"Jun-2003","int_rate":"11.55%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":55349,"loan_amnt":10625,"dti":25.81,"home_ownership":"OWN","annual_inc":32000,"earliest_cr_line":"Jun-1999","int_rate":"16.78%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":55389,"loan_amnt":11000,"dti":11.35,"home_ownership":"MORTGAGE","annual_inc":50000,"earliest_cr_line":"Dec-2002","int_rate":"6.62%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55402,"loan_amnt":5200,"dti":6.87,"home_ownership":"RENT","annual_inc":35000,"earliest_cr_line":"Mar-2003","int_rate":"9.71%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55420,"loan_amnt":11800,"dti":7.71,"home_ownership":"RENT","annual_inc":35000,"earliest_cr_line":"Apr-2004","int_rate":"15.22%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":55432,"loan_amnt":10625,"dti":23.9,"home_ownership":"RENT","annual_inc":36250,"earliest_cr_line":"Jan-2007","int_rate":"12.35%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":55444,"loan_amnt":10500,"dti":18.08,"home_ownership":"MORTGAGE","annual_inc":62000,"earliest_cr_line":"Nov-2003","int_rate":"19.52%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55452,"loan_amnt":9500,"dti":19.54,"home_ownership":"OWN","annual_inc":46000,"earliest_cr_line":"Apr-2007","int_rate":"13.68%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55456,"loan_amnt":12000,"dti":18.24,"home_ownership":"RENT","annual_inc":55000,"earliest_cr_line":"Jul-2002","int_rate":"16.78%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55458,"loan_amnt":31300,"dti":24.77,"home_ownership":"MORTGAGE","annual_inc":70000,"earliest_cr_line":"Feb-2001","int_rate":"14.33%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55464,"loan_amnt":7200,"dti":19.06,"home_ownership":"MORTGAGE","annual_inc":36000,"earliest_cr_line":"Jan-1988","int_rate":"18.85%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55477,"loan_amnt":12000,"dti":11.23,"home_ownership":"RENT","annual_inc":75000,"earliest_cr_line":"Aug-2004","int_rate":"18.85%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55484,"loan_amnt":8000,"dti":17.6,"home_ownership":"MORTGAGE","annual_inc":40000,"earliest_cr_line":"Dec-2000","int_rate":"9.71%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55500,"loan_amnt":1500,"dti":6.49,"home_ownership":"RENT","annual_inc":84000,"earliest_cr_line":"Feb-1997","int_rate":"21.60%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55505,"loan_amnt":5325,"dti":18.12,"home_ownership":"MORTGAGE","annual_inc":72000,"earliest_cr_line":"Apr-1979","int_rate":"9.71%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55507,"loan_amnt":10000,"dti":24.79,"home_ownership":"MORTGAGE","annual_inc":120000,"earliest_cr_line":"Feb-1997","int_rate":"9.71%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":55516,"loan_amnt":14000,"dti":20.4,"home_ownership":"MORTGAGE","annual_inc":200000,"earliest_cr_line":"Sep-1995","int_rate":"15.22%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55517,"loan_amnt":22000,"dti":30.29,"home_ownership":"MORTGAGE","annual_inc":84500,"earliest_cr_line":"Jun-1999","int_rate":"15.22%","loan_status":"Charged Off","issue_d":"Aug-2013"}
+{"id":55524,"loan_amnt":7000,"dti":20.83,"home_ownership":"MORTGAGE","annual_inc":65852,"earliest_cr_line":"Feb-1997","int_rate":"17.56%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55561,"loan_amnt":25000,"dti":21.73,"home_ownership":"OWN","annual_inc":81682,"earliest_cr_line":"Jan-1994","int_rate":"18.85%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55567,"loan_amnt":21000,"dti":19.87,"home_ownership":"MORTGAGE","annual_inc":130000,"earliest_cr_line":"May-2004","int_rate":"13.05%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55569,"loan_amnt":13000,"dti":16.48,"home_ownership":"MORTGAGE","annual_inc":41000,"earliest_cr_line":"Sep-1996","int_rate":"11.55%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55578,"loan_amnt":6075,"dti":18.4,"home_ownership":"MORTGAGE","annual_inc":21000,"earliest_cr_line":"Dec-2003","int_rate":"16.78%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55596,"loan_amnt":10000,"dti":14.16,"home_ownership":"RENT","annual_inc":40000,"earliest_cr_line":"Feb-2003","int_rate":"17.56%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55612,"loan_amnt":4375,"dti":25.62,"home_ownership":"MORTGAGE","annual_inc":22900,"earliest_cr_line":"Jan-2002","int_rate":"11.55%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55618,"loan_amnt":28100,"dti":32.13,"home_ownership":"MORTGAGE","annual_inc":63000,"earliest_cr_line":"May-2001","int_rate":"9.71%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55644,"loan_amnt":25000,"dti":8.06,"home_ownership":"MORTGAGE","annual_inc":140000,"earliest_cr_line":"Mar-1998","int_rate":"15.22%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55652,"loan_amnt":10000,"dti":6.63,"home_ownership":"MORTGAGE","annual_inc":180000,"earliest_cr_line":"Dec-1994","int_rate":"18.85%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55654,"loan_amnt":5000,"dti":6.66,"home_ownership":"RENT","annual_inc":65000,"earliest_cr_line":"Dec-1997","int_rate":"12.35%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
+{"id":55655,"loan_amnt":11000,"dti":18.95,"home_ownership":"MORTGAGE","annual_inc":57000,"earliest_cr_line":"Nov-1999","int_rate":"12.35%","loan_status":"Fully Paid","issue_d":"Aug-2013"}
