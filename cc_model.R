@@ -39,6 +39,9 @@ metrics <- function(data){
 	preds <- make_prediction(data)
 	outcomes <- sapply(preds, predictor)
 	cm <- table(factor(outcomes), factor(data$loan_status))
-	metrics <- list(confusionMatrix=cm["table"])
-	emit(metrics)
+	conf_mat <- list(
+		c("Charged Off" = cm[1], "Fully Paid" = cm[2]),
+		c("Charged Off" = cm[3], "Fully Paid" = cm[4])
+	)
+	emit(conf_mat)
 }
