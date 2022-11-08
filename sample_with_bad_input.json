@@ -1,0 +1,3 @@
+{"id":54176,"loan_amnt":14000,"dti":22.75,"home_ownership":"MORTGAGE","annual_inc":175000,"earliest_cr_line":"Mar-1993","int_rate":"13.68%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
+{"id":"54503","loan_amnt":7000,"dti":21.75,"home_ownership":"RENT","annual_inc":55296,"earliest_cr_line":"Sep-2003","int_rate":"18.25%","loan_status":"ChargedOff","issue_d":"Aug-2013"}
+{"id":54523,"loan_amnt":8800,"dti":23.69,"home_ownership":"MORTGAGE","annual_inc":35000,"earliest_cr_line":"Oct-2002","int_rate":"15.22%","loan_status":"FullyPaid","issue_d":"Aug-2013"}
