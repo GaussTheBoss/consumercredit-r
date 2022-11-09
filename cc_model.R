@@ -66,5 +66,5 @@ metrics <- function(data) {
             }
         )
     )
-    return(output)
+    emit(output)
 }
