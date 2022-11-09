@@ -3,7 +3,6 @@
 
 library(zoo)
 library(yardstick)
-library(jsonlite)
 
 # modelop.init
 begin <- function() {
