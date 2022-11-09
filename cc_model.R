@@ -3,6 +3,7 @@
 
 library(zoo)
 library(yardstick)
+library(jsonlite)
 
 # modelop.init
 begin <- function() {
@@ -44,5 +45,26 @@ metrics <- function(data) {
     data$outcomes <- as.factor(outcomes)
     data$loan_status <- as.factor(data$loan_status)
     cm <- yardstick::conf_mat(data = data, truth = loan_status, estimate = outcomes)
-    emit(cm)
+
+    output <- jsonlite::toJSON(
+        list(
+            "Prediction" = {
+                list(
+                    "Charged Off" = list(
+                        "Truth" = list(
+                            "Charged Off" = cm[[1]][1],
+                            "Fully Paid" = cm[[1]][3]
+                        )
+                    ),
+                    "Fully Paid" = list(
+                        "Truth" = list(
+                            "Charged Off" = cm[[1]][2],
+                            "Fully Paid" = cm[[1]][4]
+                        )
+                    )
+                )
+            }
+        )
+    )
+    return(output)
 }
