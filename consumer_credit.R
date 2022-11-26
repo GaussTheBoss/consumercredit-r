@@ -43,7 +43,7 @@ score <- function(datum) {
 
 metrics <- function(data) {
   #
-  # Function to compute a connfusion matrix, given scored and labeled data
+  # Function to compute a confusion matrix, given scored and labeled data
   #
   preds <- make_prediction(data)
   outcomes <- sapply(preds, predictor)
